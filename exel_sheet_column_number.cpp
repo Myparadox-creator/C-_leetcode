@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Solution {
 public:
     int titleToNumber(string columnTitle) {
@@ -8,4 +9,16 @@ public:
         }
         return res;
     }
+=======
+class Solution {
+public:
+    int titleToNumber(string columnTitle) {
+        int res = 0;
+        for(int i=0; i<columnTitle.size(); i++){
+            int val = columnTitle[i] - 'A' + 1;
+            res = res * 26 + val;
+        }
+        return res;
+    }
+>>>>>>> 5d89016cc92f7edf396eb0ffe33f00ed3a88c3fd
 };
