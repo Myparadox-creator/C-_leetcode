@@ -72,3 +72,15 @@ This repository is under the MIT License.
 ---
 
 Happy coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
+## String
+|  |
+| ------- |
+| [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
+<!---LeetCode Topics End-->
