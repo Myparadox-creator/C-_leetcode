@@ -82,5 +82,18 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
