@@ -88,6 +88,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
+| [3903-smallest-stable-index-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
