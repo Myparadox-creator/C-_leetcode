@@ -79,6 +79,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0593-valid-square) |
 ## String
 |  |
@@ -106,4 +107,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0593-valid-square) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
