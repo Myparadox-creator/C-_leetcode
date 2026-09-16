@@ -78,6 +78,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0593-valid-square) |
@@ -97,6 +98,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +124,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
