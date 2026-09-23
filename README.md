@@ -93,12 +93,14 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -106,6 +108,7 @@ Happy coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Geometry
 |  |
@@ -132,4 +135,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Sliding Window
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
