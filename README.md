@@ -79,6 +79,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
+| [0400-nth-digit](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0593-valid-square) |
@@ -154,6 +155,7 @@ Happy coding! 🚀
 ## Binary Search
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0400-nth-digit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
