@@ -102,6 +102,7 @@ Happy coding! 🚀
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3903-smallest-stable-index-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
@@ -111,6 +112,7 @@ Happy coding! 🚀
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
 |  |
 | ------- |
@@ -189,4 +191,12 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
