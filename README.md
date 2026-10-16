@@ -98,6 +98,7 @@ Happy coding! 🚀
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -108,6 +109,7 @@ Happy coding! 🚀
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
@@ -186,6 +188,7 @@ Happy coding! 🚀
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 ## Greedy
 |  |
