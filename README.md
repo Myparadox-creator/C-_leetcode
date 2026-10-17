@@ -78,6 +78,7 @@ Happy coding! 🚀
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0062-unique-paths) |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0400-nth-digit](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
@@ -135,6 +136,7 @@ Happy coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
@@ -172,6 +174,7 @@ Happy coding! 🚀
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Stack
 |  |
