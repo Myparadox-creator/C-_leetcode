@@ -102,6 +102,7 @@ Happy coding! 🚀
 | [0036-valid-sudoku](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
+| [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -123,6 +124,7 @@ Happy coding! 🚀
 | ------- |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
+| [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -156,6 +158,7 @@ Happy coding! 🚀
 | ------- |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0392-is-subsequence) |
+| [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -164,6 +167,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0400-nth-digit](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0400-nth-digit) |
+| [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
