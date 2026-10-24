@@ -1,18 +1,20 @@
 class Solution {
 public:
+
     vector<int> grayCode(int n) {
 
-        vector<int> ans = {0};
+        if (n == 0) {
+            return {0};
+        }
 
-        for (int i = 0; i < n; i++) {
+        vector<int> ans = grayCode(n - 1);
 
-            int size = ans.size();
+        int size = ans.size();
 
-            for (int j = size - 1; j >= 0; j--) {
+        for (int i = size - 1; i >= 0; i--) {
 
-                ans.push_back(ans[j] | (1 << i));
+            ans.push_back(ans[i] | (1 << (n - 1)));
 
-            }
         }
 
         return ans;
