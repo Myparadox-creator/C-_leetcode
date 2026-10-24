@@ -2,10 +2,17 @@ class Solution {
 public:
     vector<int> grayCode(int n) {
 
-        vector<int> ans;
+        vector<int> ans = {0};
 
-        for (int i = 0; i < (1 << n); i++) {
-            ans.push_back(i ^ (i >> 1));
+        for (int i = 0; i < n; i++) {
+
+            int size = ans.size();
+
+            for (int j = size - 1; j >= 0; j--) {
+
+                ans.push_back(ans[j] | (1 << i));
+
+            }
         }
 
         return ans;
