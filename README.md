@@ -79,6 +79,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0062-unique-paths) |
+| [0089-gray-code](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0400-nth-digit](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0400-nth-digit) |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
@@ -179,6 +180,7 @@ Happy coding! 🚀
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0089-gray-code) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
 ## Combinatorics
 |  |
@@ -224,4 +226,8 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0229-majority-element-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0089-gray-code](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
