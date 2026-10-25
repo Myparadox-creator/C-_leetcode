@@ -105,6 +105,7 @@ Happy coding! 🚀
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0229-majority-element-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0229-majority-element-ii) |
 | [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
+| [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -204,6 +205,7 @@ Happy coding! 🚀
 | ------- |
 | [0036-valid-sudoku](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
+| [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
 ## Greedy
 |  |
 | ------- |
@@ -230,4 +232,16 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0089-gray-code) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
