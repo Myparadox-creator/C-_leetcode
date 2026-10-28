@@ -92,6 +92,7 @@ Happy coding! 🚀
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0392-is-subsequence) |
@@ -145,6 +146,7 @@ Happy coding! 🚀
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0392-is-subsequence) |
@@ -195,6 +197,7 @@ Happy coding! 🚀
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Enumeration
 |  |
@@ -231,6 +234,7 @@ Happy coding! 🚀
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0022-generate-parentheses) |
 | [0089-gray-code](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0089-gray-code) |
 ## Depth-First Search
 |  |
