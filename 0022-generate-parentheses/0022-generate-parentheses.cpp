@@ -1,44 +1,38 @@
 class Solution {
 public:
-    bool isValid(string s) {
-        int count = 0;
+    void generate(string &current, int open, int close, int n,
+                  vector<string> &ans) {
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == '(') {
-                count++;
-            } else {
-                count--;
-            }
-
-            // A closing parenthesis appeared before an opening one.
-            if (count < 0) {
-                return false;
-            }
-        }
-
-        return count == 0;
-    }
-
-    void generate(string current, int n, vector<string>& ans) {
-        // Generate strings of length 2*n.
+        // Base case
         if (current.length() == 2 * n) {
-            if (isValid(current)) {
-                ans.push_back(current);
-            }
+            ans.push_back(current);
             return;
         }
 
-        // Try adding an opening parenthesis.
-        generate(current + '(', n, ans);
+        // Add opening parenthesis
+        if (open < n) {
+            current.push_back('(');
 
-        // Try adding a closing parenthesis.
-        generate(current + ')', n, ans);
+            generate(current, open + 1, close, n, ans);
+
+            current.pop_back();
+        }
+
+        // Add closing parenthesis
+        if (close < open) {
+            current.push_back(')');
+
+            generate(current, open, close + 1, n, ans);
+
+            current.pop_back();
+        }
     }
 
     vector<string> generateParenthesis(int n) {
         vector<string> ans;
+        string current = "";
 
-        generate("", n, ans);
+        generate(current, 0, 0, n, ans);
 
         return ans;
     }
