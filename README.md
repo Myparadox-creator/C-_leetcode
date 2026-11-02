@@ -82,6 +82,7 @@ Happy coding! 🚀
 | [0089-gray-code](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0089-gray-code) |
 | [0202-happy-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0202-happy-number) |
 | [0400-nth-digit](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0400-nth-digit) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0593-valid-square) |
@@ -105,6 +106,7 @@ Happy coding! 🚀
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0229-majority-element-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -130,6 +132,7 @@ Happy coding! 🚀
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0229-majority-element-ii) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
