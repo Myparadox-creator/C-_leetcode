@@ -2,24 +2,23 @@ class Solution {
 public:
     int minMoves2(vector<int>& nums) {
 
-        long long mini = LLONG_MAX;
+        int n = nums.size();
 
-        for (int i = 0; i < nums.size(); i++) {
+        // Find the median without fully sorting
+        nth_element(nums.begin(),
+                    nums.begin() + n / 2,
+                    nums.end());
 
-            long long moves = 0;
+        int median = nums[n / 2];
 
-            // Assume nums[i] is the target
-            int target = nums[i];
+        long long moves = 0;
 
-            for (int j = 0; j < nums.size(); j++) {
+        // Calculate total moves
+        for (int i = 0; i < n; i++) {
 
-                moves += abs(nums[j] - target);
-
-            }
-
-            mini = min(mini, moves);
+            moves += abs((long long)nums[i] - median);
         }
 
-        return mini;
+        return (int)moves;
     }
 };
