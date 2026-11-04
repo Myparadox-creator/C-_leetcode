@@ -94,6 +94,7 @@ Happy coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0392-is-subsequence) |
