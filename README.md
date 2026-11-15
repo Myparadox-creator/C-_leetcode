@@ -87,6 +87,7 @@ Happy coding! 🚀
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
 | [0593-valid-square](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0836-rectangle-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3870-count-commas-in-range](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3870-count-commas-in-range) |
@@ -112,6 +113,7 @@ Happy coding! 🚀
 | [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [1254-number-of-closed-islands](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -142,6 +144,7 @@ Happy coding! 🚀
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3903-smallest-stable-index-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -158,6 +161,7 @@ Happy coding! 🚀
 | [0064-minimum-path-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0509-fibonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Recursion
 |  |
