@@ -2,20 +2,40 @@ class Solution {
 public:
     int minimizeSum(vector<int>& nums) {
 
-        // Step 1: Sort the array
-        sort(nums.begin(), nums.end());
+        int a = INT_MAX, b = INT_MAX, c = INT_MAX;
+        int x = INT_MIN, y = INT_MIN, z = INT_MIN;
 
-        int n = nums.size();
+        for (int num : nums) {
 
-        // Step 2: Calculate all three possibilities
+            // Find 3 smallest elements
+            if (num < a) {
+                c = b;
+                b = a;
+                a = num;
+            }
+            else if (num < b) {
+                c = b;
+                b = num;
+            }
+            else if (num < c) {
+                c = num;
+            }
 
-        int case1 = nums[n-1] - nums[2];
+            // Find 3 largest elements
+            if (num > x) {
+                z = y;
+                y = x;
+                x = num;
+            }
+            else if (num > y) {
+                z = y;
+                y = num;
+            }
+            else if (num > z) {
+                z = num;
+            }
+        }
 
-        int case2 = nums[n-2] - nums[1];
-
-        int case3 = nums[n-3] - nums[0];
-
-        // Step 3: Return the minimum
-        return min({case1, case2, case3});
+        return min({x - c, y - b, z - a});
     }
 };
