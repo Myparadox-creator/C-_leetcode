@@ -115,6 +115,7 @@ Happy coding! 🚀
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -140,6 +141,7 @@ Happy coding! 🚀
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/Myparadox-creator/C-_leetcode/tree/master/0475-heaters) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Myparadox-creator/C-_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
 |  |
@@ -225,6 +227,7 @@ Happy coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Myparadox-creator/C-_leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Myparadox-creator/C-_leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Binary Indexed Tree
